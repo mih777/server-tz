@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"Mark Otto",
+        "income": 12,
+        "outcome": 43,
+        "loans": 48,
+        "investments": 430000
+    },
+    {
+        "id":2,
+        "name":"Jacob Throton",
+        "income": 21,
+        "outcome": 62,
+        "loans": 1,
+        "investments": 12
+    },
+    {
+        "id":3,
+        "name":"Mihael Jackson",
+        "income": 31,
+        "outcome": 25,
+        "loans": 99999999,
+        "investments": 0
+    },
+    {
+        "id":4,
+        "name":"Peter Parker",
+        "income": 32,
+        "outcome": 12,
+        "loans": 800,
+        "investments": 25
+    },
+    {
+        "id":5,
+        "name":"James Bond",
+        "income": 42,
+        "outcome": 0,
+        "loans": 21,
+        "investments": 1
+    }
+
+]
